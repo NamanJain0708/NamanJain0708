@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NamanJain0708
-- 👀 I’m interested in Full Stack projects.
+- 👀 I’m interested in Full Stack development.
 - 🌱 I’m currently learning NodeJS and Typescript.
 - 💞️ I’m looking to collaborate on backend dev projects.
 - 📫 How to reach me: Teams, [LinkedIn](https://www.linkedin.com/in/naman-jain1902/)
